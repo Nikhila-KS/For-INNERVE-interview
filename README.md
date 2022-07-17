@@ -14,5 +14,5 @@ I tried to make a design for INNERVE website's front page.
 Follow me on: 
 <li><a
 href=
-"www.linkedin.com/in/know-nikhila-k-s">LinkedIn</a>
+"">LinkedIn(www.linkedin.com/in/know-nikhila-k-s)</a>
 <li>

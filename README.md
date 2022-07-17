@@ -11,8 +11,5 @@ I tried to make a design for INNERVE website's front page.
 <br>2.CSS
 <br>3.bootstrap V5.0
 <br>
-Follow me on: 
-<li><a
-href=
-"">[Linkedin](www.linkedin.com/in/know-nikhila-k-s)</a>
-<li>
+Follow me on:  
+[Linkedin](www.linkedin.com/in/know-nikhila-k-s)
